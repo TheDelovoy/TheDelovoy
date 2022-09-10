@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDelovoy
 - 👀 I’m interested in management, leadership, bash, python, devops
-- 🌱 I’m currently learning bash, git, managing remote teams
+- 🌱 I’m currently learning bash, git, how to manage remote teams
 - 📫 How to reach me - email
 
 <!---
